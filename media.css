@@ -1,0 +1,12 @@
+@media screen and (max-width:600px){
+    nav{
+        width: 400PX;
+        justify-content: center;
+        align-items: center;
+        margin-left: 0PX;
+    }
+    .company-logo img{
+        width:60px;
+    }
+    
+}
